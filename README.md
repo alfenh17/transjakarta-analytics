@@ -43,7 +43,7 @@ The output is a **6-page interactive Power BI dashboard** backed by a robust end
 └─────────────────────────────────────────────────────────────────┘
                              ↓
 ┌─────────────────────────────────────────────────────────────────┐
-│                   PYTHON ETL (Google Colab)                     │
+│                   PYTHON ETL (Jupyter Notebook)                 │
 │                                                                 │
 │  Ingestion → Cleaning → Feature Engineering → Enrichment        │
 │  Pandas · NumPy · holidays lib · OpenMeteo SDK · scikit-learn   │
