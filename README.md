@@ -47,8 +47,7 @@ The output is a **6-page interactive Power BI dashboard** backed by a robust end
 │                                                                 │
 │  Ingestion → Cleaning → Feature Engineering → Enrichment        │
 │  Pandas · NumPy · holidays lib · OpenMeteo SDK · scikit-learn   │
-│                             ↓                                   │
-│                7 Parquet files exported                         │
+│                                                                 │
 └─────────────────────────────────────────────────────────────────┘
                              ↓
 ┌─────────────────────────────────────────────────────────────────┐
