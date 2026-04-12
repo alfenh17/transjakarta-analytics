@@ -64,7 +64,7 @@ The output is a **6-page interactive Power BI dashboard** backed by a robust end
 │                                                                 │
 │  Page 1: Executive Overview    Page 4: Passenger Profile        │
 │  Page 2: Demand Pattern        Page 5: Corridor & Route         │
-│  Page 3: Weather Impact        Page 6: Lebaran Insight ⭐       │
+│  Page 3: Weather Impact        Page 6: Lebaran Insight          │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
